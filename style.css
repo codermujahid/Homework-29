@@ -1,0 +1,359 @@
+body{
+	font-family: 'Oswald', sans-serif;
+}
+/* header-top */
+.header-top{
+    background-color: #262626;
+    padding: 10px 0;
+}
+.t-header-left{
+    margin-left: 50px;
+}
+ 
+.t-header-right a{
+    background-color: #80b737;
+    display: inline-block;
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+.t-header-right{
+    margin-right: 50px;
+}
+
+/* .b-header-sectiion */
+
+.b-header-section {
+	background: url(./img-gallery-8.jpg) no-repeat center center;
+	background-size: cover;
+	padding: 500px 0;
+	clip-path: polygon(0 0, 100% 0%, 100% 87%, 73% 100%, -304% 63%);
+}
+.logo-left{}
+.logo-image{}
+.logo-image img{}
+.logo-image span {
+	color: white;
+	display: block;
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+
+.b-header-meanu{}
+.bottom-header {
+	margin-top: -496px;
+	border-bottom: 1px solid #6c6c6c;
+}
+.b-header-meanu ul {
+	margin-top: 16px;
+	margin-left: 150px;
+}
+.b-header-meanu ul li{
+    display: inline-block;
+    margin: 10px 16px;
+
+}
+.b-header-meanu ul li a{
+    text-decoration: none;
+    color: white;
+}
+.b-header-meanu ul li a:hover{}
+
+
+.scers-bar{}
+.scers-bar a:nth-child(1) i {
+	color: white;
+	font-size: 22px;
+	display: inline-block;
+	border-left: 1px solid #6c6c6c;
+	border-right: 1px solid #6c6c6c;
+	margin-top: -4px;
+	padding: 28px 26px;
+}
+.scers-bar a:nth-child(2) i{
+    color: white;
+	font-size: 22px;
+	display: inline-block;
+	margin-top: -4px;
+	padding: 28px 26px;
+}
+.scers-bar a:nth-child(3) i{
+    color: white;
+	font-size: 22px;
+	display: inline-block;
+	margin-top: -4px;
+	padding: 28px 26px;;
+    background-color: red;
+}
+ .container{}
+ .banner-content {
+	margin-top: 120px;
+}
+ .banner-content h4 {
+	color: #a73b30;
+	font-size: 20px;
+}
+.banner-content h1 {
+	color: white;
+	font-size: 60px;
+	font-weight: 600;
+	width: 400px;
+}
+.banner-content p {
+	color: white;
+	width: 463px;
+}
+.banner-content button{
+    margin-right: 20px;
+	margin-top: 50px;
+}
+.banner-content button:nth-child(1) i {
+	background-color: #000;
+}
+.fa, .fas {
+	font-weight: 900;
+	background: #000;
+	padding: 2px 4px;
+	margin-left: 17px;
+	display: inline-block;
+	margin-right: -18px;
+}
+.fa2{
+	background-color: red;
+}
+
+/* about-section */
+
+.about-section {
+	margin-top: 78px;
+}
+
+.a-slaid{}
+.a-slaid img{}
+.about-content{}
+.about-content h4 {
+	font-size: 21px;
+	font-weight: 600;
+	color: red;
+}
+.about-content h3 {
+	font-size: 45px;
+	width: 405px;
+}
+.about-content p{}
+.cutting-content{
+}
+.cutting-content{
+	margin-top: 30px;
+}
+
+.c-image span i {
+	font-size: 35px;
+	background-color: #efefef;
+	padding: 13px;
+	border-radius: 50%;
+}
+
+.c-para{
+
+}
+
+.c-para p {
+	font-size: 17px;
+}
+
+.aboute-img {
+	background-color: #fff;
+	padding: 17px;
+	/* margin-left: -158px; */
+	margin-right: -3%;
+	display: inline-block;
+	margin-left: -354px;
+	margin-top: 92px;
+}
+.aboute-img img{}
+
+/* roadster */
+
+.roadster {
+	background: url(./img-gallery-2.jpg) no-repeat center center;
+	background-size: cover;
+	padding: 316px 0;
+	clip-path: polygon(0 0, 100% 0%, 100% 83%, 29% 100%, -304% -27%);
+	margin-top: 50px;
+}
+.road-image {
+	background-color: #fff;
+	padding: 50px;
+}
+.road-image h4{}
+.road-image p{
+	color: red;
+	margin-left: 73px;
+}
+.road-image p i {
+	color: aliceblue;
+	background-color: red;
+	padding: 2px 10px;
+}
+.road-image img {
+	width: 120px;
+}
+
+.ul-li{ }
+.ul-li ul{
+
+}
+.ul-li ul li{
+ 
+}
+.ul-li ul li a {
+	display: inline-block;
+	list-style: none;
+	background-color: #fff;
+	/* padding: 5px 12px; */
+	color: aliceblue;
+	font-size: 8px;
+}
+/* prodect */
+.prodect{}
+.prodect-logo {
+	margin-top: 100px;
+	padding-bottom: 60px;
+}
+.prodect-logo img{}
+.prodect-logo h4 {
+	font-size: 20px;
+	color: red;
+}
+.prodect-logo h3 {
+	font-size: 49px;
+	font-weight: 700;
+}
+.prodect-logo p {
+	width: 500px;
+	text-align: center;
+	margin: auto;
+	font-size: 18px;
+	margin-top: 20px;
+}
+
+
+
+.prodect-price {
+	background: #f8f8f8;
+	padding: 16px 8px;
+	width: 360px;
+}
+.prodect-price h3 {
+	font-size: 26px;
+}
+.prodect-price h5 {
+	font-size: 13px;
+}
+.prodect-price span {
+	font-size: 30px;
+	color: #e33a36;
+}
+
+
+.prodect-image{}
+.prodect-image img{}
+.p-date {
+	background: #f8f8f8;
+	padding: 16px 31px;
+	width: 360px;
+	text-align: center;
+}
+.p-date h5{}
+.p-date p{}
+.br-d {
+	border-right: 1px solid #cecece;
+	margin-left: -15px;
+}
+ 
+
+.prodect-ditails {
+	background: #f8f8f8;
+	width: 360px;
+	border-top: 1px solid #acaaaa;
+}
+.p-valu {
+	margin-top: 16px;
+	color: #757575;
+}
+.p-valu h6{}
+.p-valu p{}
+.p-img {
+	margin-left: 30px;
+}
+.p-img img{}
+
+.viw-all {
+	margin-top: -63px;
+}
+
+
+
+/* Taking-Redes */
+.taking-section{
+	margin-top: 100px;
+}
+.info-img{}
+
+.info-img IMG {
+	width: 100%;
+}
+
+.taking-content{}
+.taking-content h6 {
+	color: red;
+}
+.taking-content h4 {
+	font-size: 38px;
+	width: 400px;
+}
+.taking-content p{}
+
+.tak-brand {
+	margin-top: 56px;
+}
+.brn-img{}
+
+.brn-img img {
+	width: 100%;
+	background: #dbdbdb;
+	border-radius: 50%;
+	height: 63px;
+}
+
+.brn-content{}
+.taking-content p {
+	font-size: 19px;
+	font-weight: 50;
+	line-height: 33px;
+
+}
+/* }powerful performens */
+
+.power-performence{
+	background: url(./video.jpg) no-repeat center center;
+	background-size: cover;
+	padding: 500px 0;
+	clip-path: polygon(0 0, 100% 0%, 100% 87%, 73% 100%, -304% 63%);
+}
+
+.pp-content{
+	 background-color: rgb(245, 241, 241);
+}
+.pp-content h5{}
+.pp-content p{
+	color: red;
+}
+
+.pp-img{}
+.pp-img img{
+	width: 100%;
+}
